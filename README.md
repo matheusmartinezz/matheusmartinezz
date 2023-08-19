@@ -1,7 +1,7 @@
 ### Prazer! Eu sou o Matheus Martinez, bem-vindo ao meu perfil! 💥
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
-- ✍ Estudando JavaScript, React, Angular, SQL...
+- ✍ Estudando automação de testes, testes unitários, SQL...
 
 <div align="center">
   <a href="https://github.com/matheusmartinezz"> 
